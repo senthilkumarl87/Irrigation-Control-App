@@ -15,31 +15,31 @@ A cross-platform mobile application built with React Native and Expo for managin
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <div style="text-align: center;">
-    <img src="screenshots/dashboard.jpeg" alt="Dashboard" width="200">
+    <img src="assets/screenshots/dashboard.jpeg" alt="Dashboard" width="200">
     <p>Dashboard</p>
   </div>
   <div style="text-align: center;">
-    <img src="screenshots/motors.jpeg" alt="Motor Control" width="200">
+    <img src="assets/screenshots/motors.jpeg" alt="Motor Control" width="200">
     <p>Motor Control</p>
   </div>
   <div style="text-align: center;">
-    <img src="screenshots/valves.jpeg" alt="Valve Management" width="200">
+    <img src="assets/screenshots/valves.jpeg" alt="Valve Management" width="200">
     <p>Valve Management</p>
   </div>
   <div style="text-align: center;">
-    <img src="screenshots/fertigation.jpeg" alt="Fertigation" width="200">
+    <img src="assets/screenshots/fertigation.jpeg" alt="Fertigation" width="200">
     <p>Fertigation</p>
   </div>
   <div style="text-align: center;">
-    <img src="screenshots/fertigation_mix.jpeg" alt="Fertigation mix" width="200">
+    <img src="assets/screenshots/fertigation_mix.jpeg" alt="Fertigation mix" width="200">
     <p>Settings</p>
   </div>
   <div style="text-align: center;">
-    <img src="screenshots/Current_nutrient.jpeg" alt="Current Nutrient Mix" width="200">
+    <img src="assets/screenshots/Current_nutrient.jpeg" alt="Current Nutrient Mix" width="200">
     <p>Settings</p>
   </div>
   <div style="text-align: center;">
-    <img src="screenshots/fertigation_sensor.jpeg" alt="Fertigation sensor readings" width="200">
+    <img src="assets/screenshots/fertigation_sensor.jpeg" alt="Fertigation sensor readings" width="200">
     <p>Settings</p>
   </div>
 </div>
