@@ -23,7 +23,15 @@ A cross-platform mobile application built with React Native and Expo for managin
     <p>Motor Control</p>
   </div>
   <div style="text-align: center;">
+    <img src="assets/screenshots/motors_sensors.jpeg" alt="Motor Sensor Readings" width="200">
+    <p>Motor Control</p>
+  </div>
+  <div style="text-align: center;">
     <img src="assets/screenshots/valves.jpeg" alt="Valve Management" width="200">
+    <p>Valve Management</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/screenshots/valves_sensors.jpeg" alt="Valve Sensor Readings" width="200">
     <p>Valve Management</p>
   </div>
   <div style="text-align: center;">
