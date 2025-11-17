@@ -24,7 +24,7 @@ A cross-platform mobile application built with React Native and Expo for managin
   </div>
   <div style="text-align: center;">
     <img src="assets/screenshots/motors_sensors.jpeg" alt="Motor Sensor Readings" width="200">
-    <p>Motor Control</p>
+    <p>Motor Sensor Readings</p>
   </div>
   <div style="text-align: center;">
     <img src="assets/screenshots/valves.jpeg" alt="Valve Management" width="200">
@@ -32,7 +32,7 @@ A cross-platform mobile application built with React Native and Expo for managin
   </div>
   <div style="text-align: center;">
     <img src="assets/screenshots/valves_sensors.jpeg" alt="Valve Sensor Readings" width="200">
-    <p>Valve Management</p>
+    <p>Valve Sensor Readings</p>
   </div>
   <div style="text-align: center;">
     <img src="assets/screenshots/fertigation.jpeg" alt="Fertigation" width="200">
@@ -40,15 +40,15 @@ A cross-platform mobile application built with React Native and Expo for managin
   </div>
   <div style="text-align: center;">
     <img src="assets/screenshots/fertigation_mix.jpeg" alt="Fertigation mix" width="200">
-    <p>Settings</p>
+    <p>Fertigation mix</p>
   </div>
   <div style="text-align: center;">
     <img src="assets/screenshots/Current_nutrient.jpeg" alt="Current Nutrient Mix" width="200">
-    <p>Settings</p>
+    <p>Current Nutrient Mix</p>
   </div>
   <div style="text-align: center;">
     <img src="assets/screenshots/fertigation_sensor.jpeg" alt="Fertigation sensor readings" width="200">
-    <p>Settings</p>
+    <p>Fertigation sensor readings</p>
   </div>
 </div>
 
