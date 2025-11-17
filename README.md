@@ -11,12 +11,45 @@ A cross-platform mobile application built with React Native and Expo for managin
 - ⚡ **Real-time Updates**: Live status of all components
 - 🌐 **Cross-platform**: Works on iOS, Android, and web
 
+## Screenshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="screenshots/dashboard.jpeg" alt="Dashboard" width="200">
+    <p>Dashboard</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="screenshots/motors.jpeg" alt="Motor Control" width="200">
+    <p>Motor Control</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="screenshots/valves.jpeg" alt="Valve Management" width="200">
+    <p>Valve Management</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="screenshots/fertigation.jpeg" alt="Fertigation" width="200">
+    <p>Fertigation</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="screenshots/fertigation_mix.jpeg" alt="Fertigation mix" width="200">
+    <p>Settings</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="screenshots/Current_nutrient.jpeg" alt="Current Nutrient Mix" width="200">
+    <p>Settings</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="screenshots/fertigation_sensor.jpeg" alt="Fertigation sensor readings" width="200">
+    <p>Settings</p>
+  </div>
+</div>
+
 ## Prerequisites
 
 - Node.js (v16 or later)
 - npm or yarn
 - Expo CLI (`npm install -g expo-cli`)
-- For mobile development: 
+- For mobile development:
   - **iOS**: Xcode (macOS only)
   - **Android**: Android Studio
   - **Web**: Any modern web browser
@@ -25,12 +58,14 @@ A cross-platform mobile application built with React Native and Expo for managin
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/irrigation-control-app.git
    cd irrigation-control-app
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    # or
@@ -38,6 +73,7 @@ A cross-platform mobile application built with React Native and Expo for managin
    ```
 
 3. Start the development server:
+
    ```bash
    npm start
    # or
@@ -79,20 +115,23 @@ src/
 ### Using EAS (Expo Application Services) - Recommended
 
 1. Install EAS CLI (if not already installed):
+
    ```bash
    npm install -g eas-cli
    ```
 
 2. Configure your project (if not already configured):
+
    ```bash
    eas build:configure
    ```
 
 3. Build for both platforms:
+
    ```bash
    # For Android
    eas build --platform android
-   
+
    # For iOS (requires macOS)
    eas build --platform ios
    ```
